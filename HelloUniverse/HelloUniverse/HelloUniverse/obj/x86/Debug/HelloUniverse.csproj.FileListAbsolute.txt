@@ -1,0 +1,5 @@
+/Users/marcus/Documents/Projects/Learning-C-Sharp/HelloUniverse/HelloUniverse/HelloUniverse/bin/Debug/HelloUniverse.exe
+/Users/marcus/Documents/Projects/Learning-C-Sharp/HelloUniverse/HelloUniverse/HelloUniverse/bin/Debug/HelloUniverse.pdb
+/Users/marcus/Documents/Projects/Learning-C-Sharp/HelloUniverse/HelloUniverse/HelloUniverse/obj/x86/Debug/HelloUniverse.csproj.CoreCompileInputs.cache
+/Users/marcus/Documents/Projects/Learning-C-Sharp/HelloUniverse/HelloUniverse/HelloUniverse/obj/x86/Debug/HelloUniverse.exe
+/Users/marcus/Documents/Projects/Learning-C-Sharp/HelloUniverse/HelloUniverse/HelloUniverse/obj/x86/Debug/HelloUniverse.pdb
